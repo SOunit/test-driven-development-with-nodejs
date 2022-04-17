@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll",
-    "start": "nodemon app",
+    "start": "nodemon index",
     "lint": "eslint ."
   },
   "keywords": [],
